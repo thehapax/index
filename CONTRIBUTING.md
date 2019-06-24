@@ -2,14 +2,14 @@
 
 # CONTRIBUTING:
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 **Please consider donate**:
 
  - **eth**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
  - **btc**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
 
 (I have a really big stomach to maintain. 🍺 🍔 🍩).
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
@@ -20,9 +20,10 @@ If you are considering contributing editing the list, here are some tools for yo
 **Netiquette**:
 
  - Please don´t use commas on the .MD.
- - Update the README.md and the index.csv file too, please.
+ - Update both lists, the README.md and the index.csv file too, please.
  - Make an individual pull request for each suggestion.
  - Check your spelling and grammar.
+ - Please respect the records, if a DEX change the status, died, turned off, shut down, or whatever, please update the status column and DO NOT FUCKING ERASE!
 
 **MARKDOWN RESOURCES**:
 
